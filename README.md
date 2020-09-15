@@ -12,18 +12,18 @@
     </a>
 </p>
 
-# 🎯 Indice 
+## 🎯 Indice 
 
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
-## 📜 Sobre
+### 📜 Sobre
 
 Nesse repositório está a primeira versão do site *Foodfy*, realizado durante o **Bootcamp LaunchBase** da Rocketseat com o objetivo de praticar o que foi ensinado. Durante o curso.
 
 
-## 💻 Tecnologias utilizadas
+### 💻 Tecnologias utilizadas
 
 O projeto foi desenvolvido com as seguintes tecnologias
 
@@ -32,7 +32,7 @@ O projeto foi desenvolvido com as seguintes tecnologias
 - CSS ( [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/) )
 
 
-## 📥 Como baixar o projeto
+### 📥 Como baixar o projeto
 
 ```bash
 
