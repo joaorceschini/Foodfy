@@ -9,6 +9,9 @@ header .logo .img {
   background-image: url('../images/icon/logo.png');
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
+  height: 50px;
+  margin: auto 0;
 }
 
 header ul {

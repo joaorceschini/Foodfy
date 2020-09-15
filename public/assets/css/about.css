@@ -1,0 +1,19 @@
+.texts {
+  flex-direction: column;
+}
+
+.texts .text {
+  flex-direction: column;
+}
+
+.texts .text h2 {
+  font-size: 32px;
+}
+
+.texts .text h3 {
+  font-size: 24px;
+}
+
+.texts .text p {
+  font-size: 18px;
+}
