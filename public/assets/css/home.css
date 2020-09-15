@@ -77,7 +77,6 @@
 }
 
 .list_menu .items .item:hover .item_text {
-  border-left: 1px solid #ccc;
   padding-left: 10px;
 }
 
