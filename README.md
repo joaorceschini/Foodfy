@@ -41,6 +41,8 @@ O projeto foi desenvolvido com as seguintes tecnologias
 
 ```
 
+Obs: O layout não é responsivo, feito apenas para desktop.
+
 ---
 
 <h4 align="center">
